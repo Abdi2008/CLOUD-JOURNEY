@@ -1,0 +1,1 @@
+1. My first day in this challenge hopefully more days to come.Just created my first webserver in AWS and connected it into my laptop terminal.
