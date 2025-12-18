@@ -1,0 +1,1 @@
+VPC is a virtual private network dedicated for your aws account.
