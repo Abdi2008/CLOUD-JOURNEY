@@ -1,3 +1,5 @@
 VPC is a virtual private network dedicated for your aws account.
 Containers provide a reliable way to package your application’s code and dependencies into a single, portable unit,
  making them ideal for workflows that require high security, reliability, and scalability
+ Amazon Virtual Private Cloud (Amazon VPC)
+An Amazon VPC lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
